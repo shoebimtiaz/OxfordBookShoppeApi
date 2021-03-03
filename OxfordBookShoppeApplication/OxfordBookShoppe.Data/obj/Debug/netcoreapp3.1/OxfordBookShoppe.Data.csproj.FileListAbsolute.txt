@@ -1,0 +1,9 @@
+C:\Users\shoeb\source\repos\OxfordBookShoppeApplication\OxfordBookShoppe.Data\bin\Debug\netcoreapp3.1\OxfordBookShoppe.Data.deps.json
+C:\Users\shoeb\source\repos\OxfordBookShoppeApplication\OxfordBookShoppe.Data\bin\Debug\netcoreapp3.1\OxfordBookShoppe.Data.dll
+C:\Users\shoeb\source\repos\OxfordBookShoppeApplication\OxfordBookShoppe.Data\bin\Debug\netcoreapp3.1\OxfordBookShoppe.Data.pdb
+C:\Users\shoeb\source\repos\OxfordBookShoppeApplication\OxfordBookShoppe.Data\obj\Debug\netcoreapp3.1\OxfordBookShoppe.Data.csprojAssemblyReference.cache
+C:\Users\shoeb\source\repos\OxfordBookShoppeApplication\OxfordBookShoppe.Data\obj\Debug\netcoreapp3.1\OxfordBookShoppe.Data.AssemblyInfoInputs.cache
+C:\Users\shoeb\source\repos\OxfordBookShoppeApplication\OxfordBookShoppe.Data\obj\Debug\netcoreapp3.1\OxfordBookShoppe.Data.AssemblyInfo.cs
+C:\Users\shoeb\source\repos\OxfordBookShoppeApplication\OxfordBookShoppe.Data\obj\Debug\netcoreapp3.1\OxfordBookShoppe.Data.csproj.CoreCompileInputs.cache
+C:\Users\shoeb\source\repos\OxfordBookShoppeApplication\OxfordBookShoppe.Data\obj\Debug\netcoreapp3.1\OxfordBookShoppe.Data.dll
+C:\Users\shoeb\source\repos\OxfordBookShoppeApplication\OxfordBookShoppe.Data\obj\Debug\netcoreapp3.1\OxfordBookShoppe.Data.pdb
